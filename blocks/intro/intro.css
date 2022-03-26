@@ -1,6 +1,6 @@
 .intro {
   padding-bottom: 92px;
-  padding-left: 148px;
+  padding-left: calc(148px - 48px);
   max-width: 690px;
 }
 
@@ -13,18 +13,18 @@
 @media (max-width: 768px) {
   .intro{
     max-width: 720px;
+    padding-right: 24px;
     padding-bottom: 88px;
     padding-left: 24px;
-    padding-right: 24px;
     max-width: 720px;
   }
 }
 
 @media (max-width: 425px) {
   .intro{
+    padding-right: 16px;
     padding-bottom: 64px;
     padding-left: 16px;
-    padding-right: 16px;
     min-width: 288px;
   }
 }

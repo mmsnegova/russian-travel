@@ -19,4 +19,4 @@
 
 **Публикация проекта**
 
-Проект опубликован на [GitHub Pages](https://).
+Проект опубликован на [GitHub Pages](https://mmsnegova.github.io/russian-travel/index.html).
