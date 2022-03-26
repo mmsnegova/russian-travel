@@ -19,6 +19,13 @@
   }
 }
 
+@media (max-width: 530px) {
+  .header {
+    font-size: 56px;
+  }
+}
+
+
 @media (max-width: 425px) {
   .header {
     padding-top: 16px;
