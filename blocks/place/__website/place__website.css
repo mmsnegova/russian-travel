@@ -3,4 +3,19 @@
   display: flex;
   flex-direction: column;
   align-items: baseline;
+  width: 50%;
+  padding: 0 0 48px;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+@media (max-width: 767px) {
+  .place__website {
+    width: 100%;
+    font-size: 32px;
+    line-height: 1.09;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+  }
 }

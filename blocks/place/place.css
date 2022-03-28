@@ -9,15 +9,15 @@
   margin-bottom: 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 880px) {
   .place{
     margin-bottom: 73px;
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 767px) {
   .place{
-    margin-bottom: 64px;
+    margin-bottom: 50px;
   }
 }
 

@@ -23,6 +23,7 @@
 
 @media (min-width: 1024px) {
   .footer {
+    padding-top: 92px;
     padding-right: 48px;
     padding-left: 48px;
   }

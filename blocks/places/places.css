@@ -20,7 +20,7 @@
   }
 }
 
-@media (max-width: 530px) {
+@media (max-width: 767px) {
   .places {
     padding-top: 64px;
     padding-right: 0;

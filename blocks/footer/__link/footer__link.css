@@ -6,18 +6,16 @@
   line-height: 1;
   cursor: pointer;
   text-decoration: none;
+  transition: opacity 0.3s ease;
+  color: #FFFFFF;
+}
+
+.footer__link:hover {
+  opacity: 0.8;
 }
 
 .footer__link:last-of-type {
   margin-bottom: 0;
-}
-
-.footer__link:link {
-  color: #FFFFFF;
-}
-
-.footer__link:visited {
-  color: #FFFFFF;
 }
 
 @media (min-width: 768px) {

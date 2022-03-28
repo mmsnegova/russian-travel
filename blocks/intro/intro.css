@@ -13,7 +13,7 @@
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 880px) {
   .intro{
     padding-right: 24px;
     padding-bottom: 88px;
@@ -21,7 +21,7 @@
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 767px) {
   .intro{
     padding-right: 16px;
     padding-bottom: 64px;

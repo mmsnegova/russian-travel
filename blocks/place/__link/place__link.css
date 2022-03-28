@@ -4,12 +4,10 @@
     font-size: 18px;
     line-height: 1.22;
     cursor: pointer;
+    color: #FFFFFF;
+    transition: opacity 0.3s ease;
 }
 
-.place__link:link {
-  color: #FFFFFF;
-}
-
-.place__link:visited {
-  color: #FFFFFF;
+.place__link:hover {
+  opacity: 0.8;
 }

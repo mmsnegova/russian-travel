@@ -8,13 +8,13 @@
     line-height: 1.04;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 767px) {
   .lead__title {
     font-size: 60px;
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 530px) {
   .lead__title{
     max-width: 288px;
     margin-bottom: 16px;

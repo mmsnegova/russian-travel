@@ -12,21 +12,14 @@
   align-items: center;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 880px) {
   .header {
     padding-left: 24px;
     padding-right: 24px;
   }
 }
 
-@media (max-width: 530px) {
-  .header {
-    font-size: 56px;
-  }
-}
-
-
-@media (max-width: 425px) {
+@media (max-width: 767px) {
   .header {
     padding-top: 16px;
     padding-left: 16px;
