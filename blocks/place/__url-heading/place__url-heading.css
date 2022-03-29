@@ -8,3 +8,10 @@
   margin: 0 0 12px;
   text-transform: uppercase;
 }
+
+
+@media (max-width: 880px) {
+  .place__url-heading {
+    line-height: 1;
+  }
+}
